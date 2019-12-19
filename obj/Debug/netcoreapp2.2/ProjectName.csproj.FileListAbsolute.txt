@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/Testing/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Testing/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Testing/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Testing/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.AssemblyInfo.cs
+/Users/Guest/Desktop/Testing/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.deps.json
+/Users/Guest/Desktop/Testing/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.runtimeconfig.json
+/Users/Guest/Desktop/Testing/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.runtimeconfig.dev.json
+/Users/Guest/Desktop/Testing/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.dll
+/Users/Guest/Desktop/Testing/ProjectName/bin/Debug/netcoreapp2.2/ProjectName.pdb
+/Users/Guest/Desktop/Testing/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.dll
+/Users/Guest/Desktop/Testing/ProjectName/obj/Debug/netcoreapp2.2/ProjectName.pdb
